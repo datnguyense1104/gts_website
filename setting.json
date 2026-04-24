@@ -1,0 +1,34 @@
+{
+  "chau-duc": [
+    "id",
+    "maLo",
+    "khuVuc",
+    "thon",
+    "to",
+    "thua",
+    "dienTich",
+    "thoCu",
+    "giaBan",
+    "giaNgang",
+    "giaM2",
+    "image",
+    "mapUrl",
+    "directionUrl"
+  ],
+  "phu-my": [
+    "id",
+    "maLo",
+    "khuVuc",
+    "thon",
+    "to",
+    "thua",
+    "dienTich",
+    "thoCu",
+    "giaBan",
+    "giaNgang",
+    "giaM2",
+    "image",
+    "mapUrl",
+    "directionUrl"
+  ]
+} 
