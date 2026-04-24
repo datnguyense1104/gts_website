@@ -3,8 +3,8 @@ const nextConfig = {
   async rewrites() {
     return [
       {
-        source: '/products/imgedit/:path*',
-        destination: 'https://imgedit.vincityai.qzz.io/products/imgedit/:path*',
+        source: '/sealtech/imgedit/:path*',
+        destination: 'https://imgedit.vincityai.qzz.io/sealtech/imgedit/:path*',
       },
     ];
   },
